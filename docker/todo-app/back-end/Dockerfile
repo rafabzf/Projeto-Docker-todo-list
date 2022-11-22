@@ -1,6 +1,6 @@
 FROM node:14-alpine AS todobackend
 
-WORKDIR /todo-app
+WORKDIR /todo-app/backend
 
 EXPOSE 3001
 

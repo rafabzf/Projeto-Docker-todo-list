@@ -1,6 +1,6 @@
 FROM node:14 AS todofrontend
 
-WORKDIR /todo-app
+WORKDIR /todo-app/frontend
 
 EXPOSE 3000
 
